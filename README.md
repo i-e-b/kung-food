@@ -36,6 +36,10 @@ Path to enlightenment (one of each in deck):
 * Wisdom (play when blocked)
 * Advantage (play when you are target and the attacker is interrupted)
 
+Starting the game:
+------------------
+Each player draws 5 cards from a shuffled, face down central draw pile.
+
 Rules:
 ------
 Each card has both a Resolve and an Opportunity score. A sucessful attack
@@ -53,6 +57,9 @@ continues to the left.
 Path to enlightenment cards must be played with their companion card type
 (and only when the companion is legal to play). Player gains 10 Ki points,
 and their next 1 attack card can't be blocked.
+
+When the draw pile is empty, the discard pile is shuffled, turned face down,
+and becomes the new draw pile.
 
 Taking turns:
 -------------
@@ -100,4 +107,9 @@ End of turn:
 ------------
 At the end of each turn (no matter how it ended) all players must discard
 down to a maximum hand size of 12 cards.
+
+End of game:
+------------
+As soon as any player is reduced to zero Ki points or less, the game is over.
+The winner is the player with the greatest number of Ki points. If two or more players share the highest number of Ki points, they must have a real Kung-fu battle to decide the winner; or call a draw.
 
